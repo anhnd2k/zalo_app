@@ -1,0 +1,1 @@
+export const SAVE_ID_CLIENT = 'SAVE_ID_CLIENT';
